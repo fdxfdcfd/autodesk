@@ -1,0 +1,1 @@
+/var/www/html/magento2/magre/lib/web/jquery/jquery.metadata.js
